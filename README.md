@@ -69,7 +69,7 @@ School Fighter est un jeu de combat où des étudiants s'affrontent dans différ
 
 1. Clonez le dépôt :
 ```bash
-git clone https://github.com/votre-username/school-fighter.git
+git clone https://github.com/Geoffreypierre/school-fighter.git
 cd school-fighter
 ```
 
@@ -135,31 +135,3 @@ Ce projet a été développé en utilisant :
 
 - **Nadim DOUHANE**
 - **Geoffrey PIERRE**
-
-## 📝 License
-
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
-
-## 🤝 Contribution
-
-Les contributions sont les bienvenues ! N'hésitez pas à :
-1. Forker le projet
-2. Créer une branche pour votre fonctionnalité (`git checkout -b feature/AmazingFeature`)
-3. Commiter vos changements (`git commit -m 'Add some AmazingFeature'`)
-4. Pusher vers la branche (`git push origin feature/AmazingFeature`)
-5. Ouvrir une Pull Request
-
-## 🐛 Bugs connus et améliorations futures
-
-- [ ] Ajouter plus de personnages jouables
-- [ ] Implémenter un système de combos
-- [ ] Créer un mode tournoi
-- [ ] Ajouter des power-ups dans l'arène
-
-## 📧 Contact
-
-Pour toute question ou suggestion, n'hésitez pas à ouvrir une issue sur GitHub.
-
----
-
-⭐ Si vous aimez ce projet, n'oubliez pas de lui donner une étoile sur GitHub !
